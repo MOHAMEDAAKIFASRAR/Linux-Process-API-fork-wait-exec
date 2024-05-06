@@ -63,13 +63,14 @@ int main(void)
 
 
 ## OUTPUT:
-~~~
-![2 one](https://github.com/MOHAMEDAAKIFASRAR/Linux-Process-API-fork-wait-exec/assets/148514683/d2c33312-9d6f-4615-9d4d-fca64fc7b1bd)
+![2 one](https://github.com/MOHAMEDAAKIFASRAR/Linux-Process-API-fork-wait-exec/assets/148514683/14e7251f-5266-4b7d-bf1c-bb4af05d7580)
 
 
 
 
-~~~
+
+
+
 
 
 
