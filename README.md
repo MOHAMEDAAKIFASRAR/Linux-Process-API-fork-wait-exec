@@ -127,7 +127,8 @@ exit(0);}
 ## OUTPUT:
 ~~~
 
-![2 SECOND](https://github.com/MOHAMEDAAKIFASRAR/Linux-Process-API-fork-wait-exec/assets/148514683/f9b952db-05e1-435f-b199-d35816ac598c)
+![2 SECOND](https://github.com/MOHAMEDAAKIFASRAR/Linux-Process-API-fork-wait-exec/assets/148514683/ec9ea68f-d3a1-410d-80fa-c3b5308cd55a)
+
 
 
 ~~~
@@ -189,7 +190,8 @@ printf("Running ps with execlp. Now with path specified\n");
 
 ## OUTPUT:
 ~~~
-![2 three](https://github.com/MOHAMEDAAKIFASRAR/Linux-Process-API-fork-wait-exec/assets/148514683/fb983b91-9cfb-49ea-8099-44f707be53b9)
+
+![2 three](https://github.com/MOHAMEDAAKIFASRAR/Linux-Process-API-fork-wait-exec/assets/148514683/f6aa0d50-ca91-4d3f-bd1f-2ed6855b5795)
 
 
 
