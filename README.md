@@ -64,14 +64,7 @@ int main(void)
 
 ## OUTPUT:
 ~~~
-$ ./pidcheck.o 
-The process id: 2382
-The process id of parent function: 2258
-
-$ ps 
-  PID TTY          TIME CMD
- 2258 pts/0    00:00:00 bash
- 2392 pts/0    00:00:00 ps
+![2 one](https://github.com/MOHAMEDAAKIFASRAR/Linux-Process-API-fork-wait-exec/assets/148514683/d2c33312-9d6f-4615-9d4d-fca64fc7b1bd)
 
 
 
@@ -132,11 +125,8 @@ exit(0);}
 
 ## OUTPUT:
 ~~~
-$ ./forkcheck.o 
-I am parent, my pid is 13676
-Iam child my pid is 13677
-My parent pid is:13676
 
+![2 SECOND](https://github.com/MOHAMEDAAKIFASRAR/Linux-Process-API-fork-wait-exec/assets/148514683/f9b952db-05e1-435f-b199-d35816ac598c)
 
 
 ~~~
@@ -198,9 +188,8 @@ printf("Running ps with execlp. Now with path specified\n");
 
 ## OUTPUT:
 ~~~
-$ ./execcheck2.o 
-Running ps with execlp
-child did not exit successfully
+![2 three](https://github.com/MOHAMEDAAKIFASRAR/Linux-Process-API-fork-wait-exec/assets/148514683/fb983b91-9cfb-49ea-8099-44f707be53b9)
+
 
 
 ~~~
